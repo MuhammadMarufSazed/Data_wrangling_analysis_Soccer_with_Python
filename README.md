@@ -10,3 +10,4 @@ Relevant paper could be found from here: https://www.nature.com/articles/s41597-
 
 The file utils_football.py contains the tools that can be used for data wrangling. Both the utils_football.py and the main files contain comments to facilitate easy understanding.
 
+A walkthrough of the project can be found at https://marufsazed.medium.com/data-wrangling-project-with-python-eee40b460fed

@@ -1,4 +1,4 @@
-# Data_wrangling_analysis_Soccer_with_Python
+# Data_wrangling_soccer_with_Python
 
 This is a data wrangling projec where the main objective was to parse data from large JSON files in usable format for further analysis. In this poject, several tools were developed and applied on datasets related to the Spanish League for demonstration purpose.
 

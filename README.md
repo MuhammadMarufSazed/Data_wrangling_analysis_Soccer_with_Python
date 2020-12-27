@@ -8,6 +8,5 @@ The original datasets are available in JSON and csv formats in here: https://spr
 
 Relevant paper could be found from here: https://www.nature.com/articles/s41597-019-0247-7
 
-The file utils_football.py contains the tools that can be used for data wrangling.
-
+The file utils_football.py contains the tools that can be used for data wrangling. Both the utils_football.py and the main files contain comments to facilitate easy understanding.
 
